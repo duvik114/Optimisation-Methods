@@ -1,2 +1,2 @@
 # Optimisation-Methods
-Optimisation Methods labs
+Repository for Optimisation Methods labs
